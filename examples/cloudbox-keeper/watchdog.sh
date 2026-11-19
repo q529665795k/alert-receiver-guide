@@ -44,4 +44,3 @@ while true; do
     ensure_task
     sleep "$INTERVAL"
 done
-</content>

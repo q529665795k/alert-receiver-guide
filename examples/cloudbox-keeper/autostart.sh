@@ -36,4 +36,3 @@ else
 fi
 
 log "=== 开机自启完成 ==="
-</content>

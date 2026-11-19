@@ -64,4 +64,3 @@ if __name__ == "__main__":
     ok = push(msg)
     print("成功" if ok else "失败")
     # 记得去手机上确认真的收到了，别只看退出码
-</content>
