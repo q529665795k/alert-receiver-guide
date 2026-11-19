@@ -1,0 +1,9 @@
+.env
+*.env
+.state.json
+.health.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+</content>
